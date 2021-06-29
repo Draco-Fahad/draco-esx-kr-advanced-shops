@@ -10,6 +10,9 @@ All The Credit Goes To Its Original Developer **krille123**. I Just Fixed Almost
 5.Pop-up Menu Fixed 
 6.And Much More...
 
+**Features**
+This is The Best Script of Shop With multiple Functions. You can Buy And your Own Shop You Can Deposit Items in It, Call For The Shipments And Much More.
+
 **Config**
 Easy To Config
 You Can Find Many Options in Config.lua
